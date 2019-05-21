@@ -16,7 +16,7 @@
         <number_ref/>
         <provider_class/>
         <read_access>true</read_access>
-        <super_class display_value="User" name="sys_user">783089223433230078507f0289bd01b7</super_class>
+        <super_class display_value="User" name="sys_user">bc3b9b31dd0323007850f2ee37a0399c</super_class>
         <sys_class_code/>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_class_path/>
